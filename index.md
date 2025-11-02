@@ -10,3 +10,8 @@ def main():
 if __name__== '__main__':
     main()
 ```
+
+I didn't create the idea of this list:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
